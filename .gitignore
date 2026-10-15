@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+
+# Internal scratch & harness files
+.jetro/
+hive/
+roster-backups/
+roster.json
+spell_grammar_checker_ai_prompt.md
